@@ -1,5 +1,3 @@
-# YQuantum_2026_AWS_x_State_Street_Team_5
-
 # YQuantum 2026 - AWS x State Street Challenge
 
 ## Quantum Feature Augmentation for Financial Market Prediction
